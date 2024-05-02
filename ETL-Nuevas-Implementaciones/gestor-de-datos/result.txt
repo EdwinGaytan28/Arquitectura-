@@ -1,0 +1,4 @@
+...file C:\Users\edwin\OneDrive\Escritorio\Octavo Semestre\Arquitectura de Software\gestor-de-datos\result\csv.json processed
+...file C:\Users\edwin\OneDrive\Escritorio\Octavo Semestre\Arquitectura de Software\gestor-de-datos\result\xml.json processed
+...file C:\Users\edwin\OneDrive\Escritorio\Octavo Semestre\Arquitectura de Software\gestor-de-datos\result\htm.json processed
+...file C:\Users\edwin\OneDrive\Escritorio\Octavo Semestre\Arquitectura de Software\gestor-de-datos\result\txt.json processed
